@@ -13,7 +13,7 @@ DevTools is an innovative menu bar application for macOS, designed to simplify t
 
 ## Installation
 
-1. Download the latest release of DevTools directly from our [GitHub repository](https://github.com/).
+1. Download the latest release of DevTools directly from our [GitHub repository](https://github.com/marcbuetti/DevTools/releases).
 2. Open the downloaded file and drag the DevTools icon into your Applications folder.
 3. Launch DevTools from your Applications folder or through Spotlight search.
 

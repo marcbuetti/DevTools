@@ -3,12 +3,19 @@
     <channel>
         <title>DevTools</title>
         <item>
-            <title>2.5</title>
-            <pubDate>Mon, 05 Feb 2024 23:47:41 +0100</pubDate>
-            <sparkle:version>800</sparkle:version>
-            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <title>2.6</title>
+            <description><![CDATA[
+                    <h1>DevTools - Verwsion 2.6</h1>
+                    <p>- Bug Fix for "the input device is not a TTY"</p>
+                    <p>- Important things better understandable</p>
+                    <p>- Windows are now reliably displayed in front of other open windows</p>
+                    <p>- More new Settings</p>
+                ]]></description>
+            <pubDate>Wed, 07 Feb 2024 01:13:08 +0100</pubDate>
+            <sparkle:version>405</sparkle:version>
+            <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcbuetti/DevTools/releases/download/2.5/DevTools.dmg" length="4306247" type="application/octet-stream" sparkle:edSignature="48NK2HtsGnGQacAZ7wf3N93e7W9M7mY/SWIGv58jQLOcaxCrVptnbKly7GA+bEsd/KfhUQLNg0JcB6zUb6YEAg=="/>
+            <enclosure url="https://github.com/marcbuetti/DevTools/releases/download/2.6/DevTools.dmg" length="4349599" type="application/octet-stream" sparkle:edSignature="1zS1Az8tj4lO+tbKrG840eouG5vu3k7ReTv3CrLvvDCT0waA88wKmqlpws5vp3mRL17pDiRvKOeoj0oh/7DFBw=="/>
         </item>
     </channel>
 </rss>
